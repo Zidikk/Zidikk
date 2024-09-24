@@ -27,22 +27,22 @@ I am a software engineer with a foundation in various programming languages and 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a>
-    <a href = "https://nestjs.com/" target = "_blank "rel = "noreferrer "> <img src = "https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000 "alt = "NestJS "width = "40 "height = "40 "/> </a>
+    <a href = "https://nestjs.com/" target = "_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt = "NestJS" width="40" height="40"/> </a>
 </p>
 
 ### **Databases**
 <p align = "left">
-    <a href = "https://www.postgresql.org "target =" _blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg "alt =" PostgreSQL "width =" 40 "height =" 40 "/> </a>
-    <a href = "https://www.mongodb.com/" target = "_blank "rel = "noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg "alt =" MongoDB "width =" 40 "height =" 40 "/> </a>
-    <a href = "https://www.mysql.com/" target = "_blank "rel ="noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" MySQL "width =" 40 "height =" 40 "/> </a>
-    <a href = "https://www.microsoft.com/en-us/sql-server "target =" _blank "rel =" noreferrer "> <img src = "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg "alt = "MSSQL "width= "40 "height= "40"/> </a>
+    <a href = "https://www.postgresql.org "target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height ="40"/> </a>
+    <a href = "https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width ="40" height ="40"/> </a>
+    <a href = "https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width ="40" height ="40"/> </a>
+    <a href = "https://www.microsoft.com/en-us/sql-server "target="_blank"rel ="noreferrer"> <img src = "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width= "40" height= "40"/> </a>
 </p>
 
 ### **Tools & Frameworks**
 <p align = "left">
-    <a href = "https://git-scm.com/" target = "_blank "rel = "noreferrer "> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg "alt = "Git "width = "40 "height = "40 "/> </a>
-    <a href = "https://www.docker.com/" target = "_blank "rel = "noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg "alt = "Docker "width = "40 "height = "40 "/> </a>
-    <a href = "https://grafana.com/" target = "_blank "rel = "noreferrer "> <img src = "https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg "alt = "Grafana "width = "40 "height = "40 "/> </a>
+    <a href = "https://git-scm.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "Git" width = "40" height = "40"/> </a>
+    <a href = "https://www.docker.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt = "Docker" width = "40" height = "40"/> </a>
+    <a href = "https://grafana.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt = "Grafana" width = "40" height = "40"/> </a>
 </p>
 
 ## 📫 Connect with me:
